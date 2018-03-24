@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp1.1\GenericBoxOfInteger.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp1.1\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp1.1\GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp1.1\GenericBoxOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp1.1\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp1.1\GenericBoxOfInteger.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp1.1\GenericBoxOfInteger.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp1.1\GenericBoxOfInteger.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp1.1\GenericBoxOfInteger.pdb

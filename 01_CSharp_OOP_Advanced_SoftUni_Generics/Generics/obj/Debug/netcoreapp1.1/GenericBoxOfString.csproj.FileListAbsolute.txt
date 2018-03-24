@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\GenericBoxOfString.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\GenericBoxOfString.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\GenericBoxOfString.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\GenericBoxOfString.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\GenericBoxOfString.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\netcoreapp1.1\GenericBoxOfString.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\netcoreapp1.1\GenericBoxOfString.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\netcoreapp1.1\GenericBoxOfString.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\netcoreapp1.1\GenericBoxOfString.csprojResolveAssemblyReference.cache

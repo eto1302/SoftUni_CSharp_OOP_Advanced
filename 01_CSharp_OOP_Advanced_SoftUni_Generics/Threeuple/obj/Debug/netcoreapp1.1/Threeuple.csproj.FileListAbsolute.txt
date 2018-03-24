@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Threeuple\bin\Debug\netcoreapp1.1\Threeuple.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Threeuple\bin\Debug\netcoreapp1.1\Threeuple.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Threeuple\bin\Debug\netcoreapp1.1\Threeuple.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Threeuple\bin\Debug\netcoreapp1.1\Threeuple.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Threeuple\bin\Debug\netcoreapp1.1\Threeuple.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Threeuple\obj\Debug\netcoreapp1.1\Threeuple.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Threeuple\obj\Debug\netcoreapp1.1\Threeuple.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Threeuple\obj\Debug\netcoreapp1.1\Threeuple.pdb

@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp1.1\GenericCountMethodStrings.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp1.1\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp1.1\GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp1.1\GenericCountMethodStrings.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp1.1\GenericCountMethodStrings.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp1.1\GenericCountMethodStrings.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp1.1\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp1.1\GenericCountMethodStrings.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp1.1\GenericCountMethodStrings.pdb

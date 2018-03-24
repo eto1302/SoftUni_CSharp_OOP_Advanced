@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Tuple\bin\Debug\netcoreapp1.1\Tuple.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Tuple\bin\Debug\netcoreapp1.1\Tuple.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Tuple\bin\Debug\netcoreapp1.1\Tuple.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Tuple\bin\Debug\netcoreapp1.1\Tuple.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Tuple\bin\Debug\netcoreapp1.1\Tuple.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Tuple\obj\Debug\netcoreapp1.1\Tuple.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Tuple\obj\Debug\netcoreapp1.1\Tuple.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\Tuple\obj\Debug\netcoreapp1.1\Tuple.pdb

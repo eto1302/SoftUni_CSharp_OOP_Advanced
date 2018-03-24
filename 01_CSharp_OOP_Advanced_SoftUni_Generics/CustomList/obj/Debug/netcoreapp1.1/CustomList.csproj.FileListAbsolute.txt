@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\bin\Debug\netcoreapp1.1\CustomList.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\bin\Debug\netcoreapp1.1\CustomList.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\bin\Debug\netcoreapp1.1\CustomList.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\bin\Debug\netcoreapp1.1\CustomList.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\bin\Debug\netcoreapp1.1\CustomList.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\obj\Debug\netcoreapp1.1\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\obj\Debug\netcoreapp1.1\CustomList.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\obj\Debug\netcoreapp1.1\CustomList.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomList\obj\Debug\netcoreapp1.1\CustomList.pdb

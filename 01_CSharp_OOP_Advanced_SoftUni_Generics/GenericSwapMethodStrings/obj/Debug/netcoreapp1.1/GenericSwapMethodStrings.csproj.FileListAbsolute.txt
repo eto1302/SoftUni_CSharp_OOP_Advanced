@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp1.1\GenericSwapMethodStrings.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp1.1\GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp1.1\GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp1.1\GenericSwapMethodStrings.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp1.1\GenericSwapMethodStrings.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp1.1\GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp1.1\GenericSwapMethodStrings.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp1.1\GenericSwapMethodStrings.pdb

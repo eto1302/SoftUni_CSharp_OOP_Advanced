@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp1.1\GenericSwapMethodIntegers.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp1.1\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp1.1\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp1.1\GenericSwapMethodIntegers.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp1.1\GenericSwapMethodIntegers.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp1.1\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp1.1\GenericSwapMethodIntegers.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp1.1\GenericSwapMethodIntegers.pdb

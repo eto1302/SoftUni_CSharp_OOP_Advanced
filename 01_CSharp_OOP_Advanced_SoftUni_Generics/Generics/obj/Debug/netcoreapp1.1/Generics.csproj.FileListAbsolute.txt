@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\Generics.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\Generics.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\Generics.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\Generics.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\netcoreapp1.1\Generics.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\netcoreapp1.1\Generics.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\netcoreapp1.1\Generics.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\netcoreapp1.1\Generics.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\netcoreapp1.1\Generics.pdb

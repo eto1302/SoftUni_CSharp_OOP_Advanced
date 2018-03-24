@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomListSorter\bin\Debug\netcoreapp1.1\CustomListSorter.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomListSorter\bin\Debug\netcoreapp1.1\CustomListSorter.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomListSorter\bin\Debug\netcoreapp1.1\CustomListSorter.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomListSorter\bin\Debug\netcoreapp1.1\CustomListSorter.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomListSorter\bin\Debug\netcoreapp1.1\CustomListSorter.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomListSorter\obj\Debug\netcoreapp1.1\CustomListSorter.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomListSorter\obj\Debug\netcoreapp1.1\CustomListSorter.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Generics\CustomListSorter\obj\Debug\netcoreapp1.1\CustomListSorter.pdb
