@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\bin\Debug\netcoreapp1.1\OpenClosedAndLiskov.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\bin\Debug\netcoreapp1.1\OpenClosedAndLiskov.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\bin\Debug\netcoreapp1.1\OpenClosedAndLiskov.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\bin\Debug\netcoreapp1.1\OpenClosedAndLiskov.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\bin\Debug\netcoreapp1.1\OpenClosedAndLiskov.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\obj\Debug\netcoreapp1.1\OpenClosedAndLiskov.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\obj\Debug\netcoreapp1.1\OpenClosedAndLiskov.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\obj\Debug\netcoreapp1.1\OpenClosedAndLiskov.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\OpenClosedAndLiskov\OpenClosedAndLiskov\obj\Debug\netcoreapp1.1\OpenClosedAndLiskov.pdb
