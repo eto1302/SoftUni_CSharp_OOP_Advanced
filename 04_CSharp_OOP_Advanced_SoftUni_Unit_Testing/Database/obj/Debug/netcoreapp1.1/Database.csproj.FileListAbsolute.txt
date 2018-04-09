@@ -1,0 +1,12 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\Database.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\Database.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\Database.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\Database.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\bin\Debug\netcoreapp1.1\Database.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\obj\Debug\netcoreapp1.1\Database.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\obj\Debug\netcoreapp1.1\Database.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Database\Database\obj\Debug\netcoreapp1.1\Database.pdb

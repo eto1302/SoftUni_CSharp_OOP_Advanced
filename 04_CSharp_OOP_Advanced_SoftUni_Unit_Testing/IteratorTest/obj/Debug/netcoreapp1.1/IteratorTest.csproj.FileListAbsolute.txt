@@ -1,0 +1,13 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\IteratorTest.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\IteratorTest.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\IteratorTest.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\IteratorTest.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\bin\Debug\netcoreapp1.1\IteratorTest.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\obj\Debug\netcoreapp1.1\IteratorTest.csprojResolveAssemblyReference.cache
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\obj\Debug\netcoreapp1.1\IteratorTest.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\obj\Debug\netcoreapp1.1\IteratorTest.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\IteratorTest\obj\Debug\netcoreapp1.1\IteratorTest.pdb

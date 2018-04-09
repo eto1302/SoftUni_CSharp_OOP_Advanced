@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Database.csproj", "{7984324B-593D-4855-8933-5AB02699EDBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtendedDatabase", "ExtendedDatabase\ExtendedDatabase.csproj", "{58A8ED1D-F416-4CCD-BEB6-ED33790FF071}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorTest", "IteratorTest\IteratorTest.csproj", "{CF946202-F3FA-4DB7-8061-DD779502881C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter", "ConsoleApp1\Twitter.csproj", "{807CFEFE-16D7-4694-8496-4F94B94C006D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hack", "Hack\Hack.csproj", "{BDFC2A02-0DB0-4B8E-ACC2-B00C6F73E960}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime.Now.AddDays", "DateTime.Now.AddDays\DateTime.Now.AddDays.csproj", "{C0DB4F77-78E8-424A-A1DA-9EA3AE440508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TirePressureMonitoringSystem", "TirePressureMonitoringSystem\TirePressureMonitoringSystem.csproj", "{48B396F4-91AB-4868-A619-A46D51FDE610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7984324B-593D-4855-8933-5AB02699EDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7984324B-593D-4855-8933-5AB02699EDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7984324B-593D-4855-8933-5AB02699EDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7984324B-593D-4855-8933-5AB02699EDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A8ED1D-F416-4CCD-BEB6-ED33790FF071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A8ED1D-F416-4CCD-BEB6-ED33790FF071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A8ED1D-F416-4CCD-BEB6-ED33790FF071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A8ED1D-F416-4CCD-BEB6-ED33790FF071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF946202-F3FA-4DB7-8061-DD779502881C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF946202-F3FA-4DB7-8061-DD779502881C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF946202-F3FA-4DB7-8061-DD779502881C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF946202-F3FA-4DB7-8061-DD779502881C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807CFEFE-16D7-4694-8496-4F94B94C006D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807CFEFE-16D7-4694-8496-4F94B94C006D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807CFEFE-16D7-4694-8496-4F94B94C006D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807CFEFE-16D7-4694-8496-4F94B94C006D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFC2A02-0DB0-4B8E-ACC2-B00C6F73E960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFC2A02-0DB0-4B8E-ACC2-B00C6F73E960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFC2A02-0DB0-4B8E-ACC2-B00C6F73E960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFC2A02-0DB0-4B8E-ACC2-B00C6F73E960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DB4F77-78E8-424A-A1DA-9EA3AE440508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DB4F77-78E8-424A-A1DA-9EA3AE440508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DB4F77-78E8-424A-A1DA-9EA3AE440508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DB4F77-78E8-424A-A1DA-9EA3AE440508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B396F4-91AB-4868-A619-A46D51FDE610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B396F4-91AB-4868-A619-A46D51FDE610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B396F4-91AB-4868-A619-A46D51FDE610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B396F4-91AB-4868-A619-A46D51FDE610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

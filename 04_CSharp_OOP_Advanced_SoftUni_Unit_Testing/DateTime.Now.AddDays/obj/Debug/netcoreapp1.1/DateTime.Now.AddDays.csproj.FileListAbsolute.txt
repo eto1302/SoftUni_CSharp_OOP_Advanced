@@ -1,0 +1,13 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\DateTime.Now.AddDays.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\DateTime.Now.AddDays.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\DateTime.Now.AddDays.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\DateTime.Now.AddDays.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\bin\Debug\netcoreapp1.1\DateTime.Now.AddDays.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\obj\Debug\netcoreapp1.1\DateTime.Now.AddDays.csprojResolveAssemblyReference.cache
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\obj\Debug\netcoreapp1.1\DateTime.Now.AddDays.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\obj\Debug\netcoreapp1.1\DateTime.Now.AddDays.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\DateTime.Now.AddDays\obj\Debug\netcoreapp1.1\DateTime.Now.AddDays.pdb

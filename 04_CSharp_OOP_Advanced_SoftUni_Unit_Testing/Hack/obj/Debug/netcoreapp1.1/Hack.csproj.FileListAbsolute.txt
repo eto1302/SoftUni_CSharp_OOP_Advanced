@@ -1,0 +1,12 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\Hack.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\Hack.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\Hack.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\Hack.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\bin\Debug\netcoreapp1.1\Hack.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\obj\Debug\netcoreapp1.1\Hack.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\obj\Debug\netcoreapp1.1\Hack.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\Hack\obj\Debug\netcoreapp1.1\Hack.pdb

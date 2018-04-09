@@ -1,0 +1,13 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\ExtendedDatabase.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\ExtendedDatabase.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\ExtendedDatabase.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\ExtendedDatabase.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\bin\Debug\netcoreapp1.1\ExtendedDatabase.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\obj\Debug\netcoreapp1.1\ExtendedDatabase.csprojResolveAssemblyReference.cache
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\obj\Debug\netcoreapp1.1\ExtendedDatabase.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\obj\Debug\netcoreapp1.1\ExtendedDatabase.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ExtendedDatabase\obj\Debug\netcoreapp1.1\ExtendedDatabase.pdb

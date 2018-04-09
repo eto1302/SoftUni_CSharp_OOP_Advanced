@@ -1,0 +1,12 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\Twitter.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\Twitter.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\Twitter.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\Twitter.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\bin\Debug\netcoreapp1.1\Twitter.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\obj\Debug\netcoreapp1.1\Twitter.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\obj\Debug\netcoreapp1.1\Twitter.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Database\ConsoleApp1\obj\Debug\netcoreapp1.1\Twitter.pdb
