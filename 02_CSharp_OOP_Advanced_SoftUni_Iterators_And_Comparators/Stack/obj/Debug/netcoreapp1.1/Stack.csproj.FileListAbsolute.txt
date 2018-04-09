@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\bin\Debug\netcoreapp1.1\Stack.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\bin\Debug\netcoreapp1.1\Stack.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\bin\Debug\netcoreapp1.1\Stack.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\bin\Debug\netcoreapp1.1\Stack.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\bin\Debug\netcoreapp1.1\Stack.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\obj\Debug\netcoreapp1.1\Stack.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\obj\Debug\netcoreapp1.1\Stack.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\obj\Debug\netcoreapp1.1\Stack.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\Stack\obj\Debug\netcoreapp1.1\Stack.csprojResolveAssemblyReference.cache

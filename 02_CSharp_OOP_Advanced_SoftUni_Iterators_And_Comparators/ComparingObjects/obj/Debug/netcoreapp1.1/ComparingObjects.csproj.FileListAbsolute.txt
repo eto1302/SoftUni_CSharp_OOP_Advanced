@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp1.1\ComparingObjects.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp1.1\ComparingObjects.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp1.1\ComparingObjects.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp1.1\ComparingObjects.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp1.1\ComparingObjects.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp1.1\ComparingObjects.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp1.1\ComparingObjects.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp1.1\ComparingObjects.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp1.1\ComparingObjects.pdb

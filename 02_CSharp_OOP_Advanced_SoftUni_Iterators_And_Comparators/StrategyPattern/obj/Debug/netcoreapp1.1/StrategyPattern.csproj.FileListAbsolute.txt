@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.pdb
