@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\bin\Debug\netcoreapp1.1\CustomEnumAttribute.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\bin\Debug\netcoreapp1.1\CustomEnumAttribute.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\bin\Debug\netcoreapp1.1\CustomEnumAttribute.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\bin\Debug\netcoreapp1.1\CustomEnumAttribute.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\bin\Debug\netcoreapp1.1\CustomEnumAttribute.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\obj\Debug\netcoreapp1.1\CustomEnumAttribute.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\obj\Debug\netcoreapp1.1\CustomEnumAttribute.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\obj\Debug\netcoreapp1.1\CustomEnumAttribute.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\CustomEnumAttribute\obj\Debug\netcoreapp1.1\CustomEnumAttribute.pdb

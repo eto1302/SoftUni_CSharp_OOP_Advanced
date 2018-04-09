@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp1.1\TrafficLights.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp1.1\TrafficLights.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp1.1\TrafficLights.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp1.1\TrafficLights.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp1.1\TrafficLights.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp1.1\TrafficLights.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp1.1\TrafficLights.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp1.1\TrafficLights.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp1.1\TrafficLights.pdb

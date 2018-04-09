@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\bin\Debug\netcoreapp1.1\TheCommandsStrikeBack.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\bin\Debug\netcoreapp1.1\TheCommandsStrikeBack.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\bin\Debug\netcoreapp1.1\TheCommandsStrikeBack.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\bin\Debug\netcoreapp1.1\TheCommandsStrikeBack.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\bin\Debug\netcoreapp1.1\TheCommandsStrikeBack.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\obj\Debug\netcoreapp1.1\TheCommandsStrikeBack.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\obj\Debug\netcoreapp1.1\TheCommandsStrikeBack.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\obj\Debug\netcoreapp1.1\TheCommandsStrikeBack.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Reflection\04TheCommandsStrikeBack\obj\Debug\netcoreapp1.1\TheCommandsStrikeBack.pdb
