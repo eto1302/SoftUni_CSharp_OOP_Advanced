@@ -1,0 +1,11 @@
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\vikmar\Desktop\BashsoftSubmitted\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
