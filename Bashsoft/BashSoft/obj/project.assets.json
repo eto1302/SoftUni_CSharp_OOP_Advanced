@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vikmar\\Desktop\\BashsoftSubmitted\\BashSoft\\BashSoft.csproj",
+      "projectUniqueName": "C:\\Users\\vikmar\\Desktop\\Bashsoft\\BashSoft\\BashSoft.csproj",
       "projectName": "BashSoft",
-      "projectPath": "C:\\Users\\vikmar\\Desktop\\BashsoftSubmitted\\BashSoft\\BashSoft.csproj",
+      "projectPath": "C:\\Users\\vikmar\\Desktop\\Bashsoft\\BashSoft\\BashSoft.csproj",
       "packagesPath": "C:\\Users\\vikmar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vikmar\\Desktop\\BashsoftSubmitted\\BashSoft\\obj\\",
+      "outputPath": "C:\\Users\\vikmar\\Desktop\\Bashsoft\\BashSoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
